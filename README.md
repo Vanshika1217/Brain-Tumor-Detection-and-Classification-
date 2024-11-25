@@ -6,3 +6,5 @@ A Convolutional Neural Network (CNN) is designed to analyze brain MRI scans, ext
 
 Flask Integration
 The Flask-based website allows users to upload MRI images, which are processed by the CNN model. The platform predicts and displays the tumor classification output in real-time, offering a simple and effective diagnostic solution.
+
+![image](https://github.com/user-attachments/assets/e40b4d17-a368-4b2a-8e85-b19357035644)
